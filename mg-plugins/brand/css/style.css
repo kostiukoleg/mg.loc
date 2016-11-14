@@ -1,0 +1,117 @@
+.section-brand .second-step-settings,
+.section-brand .first-settings{
+  margin: 10px 0;
+}
+
+.section-brand .mg-brand-table tbody td.logo img {
+    width:70px;
+    height: auto;
+}
+
+.section-brand .second-step-settings select{
+    margin: 0 10px;
+}
+
+.section-brand .brand-buttons{
+    text-align: center;
+}
+.section-brand .brand-buttons.copy{
+    display: inline-block;
+}
+
+.section-brand .mg-brand-tbody tr {
+    cursor: move;
+}
+
+.section-brand .link-result{
+    display: block;
+    margin: 10px 0;
+}
+
+.section-brand .wrapper-entity-setting .link-result{
+    text-align: center;
+}
+
+.section-brand .mg-brand-attantion {
+    padding: 20px;
+    margin: 10px;
+    border: 3px #FFEDED ridge;
+}
+
+.section-brand .logo-brand{
+    display: block;
+    margin: 5px 0;
+}
+
+.section-brand .custom-table-wrapper .widget-table-body .mg-brand-info li #cke_desc{
+    margin: 10px 0 0 0;
+}
+
+.section-brand .custom-table-wrapper .widget-table-body .save-button{
+    margin: 15px 0 0 0;
+}
+
+.section-brand .custom-table-wrapper .widget-table-body .mg-brand-info li{
+    margin: 0 0 10px 0;
+}
+
+.section-brand .custom-table-wrapper .widget-table-body .mg-brand-info li > span{
+    display: inline-block;
+    width:  130px;
+}
+
+.section-brand .custom-table-wrapper .widget-table-body h3{
+    margin: 0 0 15px 0;
+}
+
+.section-brand .mg-brand-table tr td{
+    border: 1px solid #D3D3D3;
+}
+
+.section-brand .no-old-characteristic{
+    margin: 0 10px 0 0;
+}
+
+.section-brand .next-export span{
+    padding-right: 29px;
+    background: url("../images/go-icon.png") 90% center no-repeat;
+}
+
+.section-brand .no-old-characteristic span{
+    padding-left: 29px;
+    background: url("../images/close-icon.png") 7px center no-repeat;
+}
+
+.section-brand .export-old-characteristic span{
+    padding-left: 29px;
+    background: url("../images/check-icon.png") 7px center no-repeat;
+}
+
+/**
+ * публичная часть
+**/
+.mg-brand-block .mg-brand-logo {
+    display: inline-block;
+    width: 22%;
+    margin: 1.5%;
+    box-shadow: 0 0px 3px rgba(0, 0, 0, 0.32);
+}
+
+.mg-brand-block{
+    font-size: 0;
+    text-align: center;
+}
+
+.mg-brand-block h1{
+    font-size: 18px;
+    line-height: 16px;
+    margin: 0 0 10px 0;
+}
+
+.mg-brand-block .mg-brand-logo img {
+    width: 100%;
+}
+.products-wrapper.brands .addToCompare{
+   margin-left: 30px;
+   float:right;
+}

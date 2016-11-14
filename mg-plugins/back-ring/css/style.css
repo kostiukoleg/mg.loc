@@ -1,0 +1,21 @@
+.base-settings{float: left; width: 45%;}
+.base-settings h3{margin: 0 0 10px 0;}
+.base-settings .base-setting-save{margin-bottom: 0;}
+.base-settings .list-option li span, .section-slider-action .custom-text{display: inline-block;width:190px;}
+.base-settings .list-option li{margin: 0 0 10px 0;}
+.base-settings .list-option li input, .base-settings .list-option li select{margin: 0;}
+.entity-table-tbody tr td{border:1px solid #D3D3D3;cursor: move;text-align: left;}
+.entity-table-tbody tr td{padding: 5px;vertical-align: top;}
+.entity-table-tbody tr td.type{text-align: center;}
+
+.wrapper-modal-back-ring { position: absolute; z-index: 1000; width: 400px; margin: 0 auto; background: #D3D3D3; padding: 5px; display: none;}
+.wrapper-modal-back-ring .header-modal-back-ring { width: 100%; height: 25px; float: left;}
+.wrapper-modal-back-ring .header-modal-back-ring .title-modal-back-ring {margin-left: 10px;  float: left; font-size: 14pt; font-weight: 600}
+.wrapper-modal-back-ring .close-modal-back-ring{ width: 70px; height: 25px; float: right;}
+.wrapper-modal-back-ring .close-modal-back-ring .close-ring-button{ width: 70px; height: 25px; float: right;}
+.content-modal-back-ring input { width: 350px; margin: 10px;}
+.content-modal-back-ring textarea {margin: 10px; width: 370px; height: 60px; }
+.content-modal-back-ring .wrap-send-ring-button {width:100%; clear:both; text-align: center;}
+
+
+

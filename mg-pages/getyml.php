@@ -1,0 +1,1 @@
+<?php $yml= new YML(); header("Content-type: text/xml; ");echo  $yml->exportToYml(array(),true); ?>

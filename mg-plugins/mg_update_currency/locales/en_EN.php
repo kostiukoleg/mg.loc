@@ -1,0 +1,22 @@
+<?php
+$lang = array (
+  'USE_MARGIN'=>'Do surcharge on course',
+  'MARGIN'=>'markup',
+  'T_TIP_MARGIN'=>'The mark-up for the course',
+  'USE_AUTO_UPDATE'=>'Use auto update',
+  'AUTO_UPDATE_TIME'=>'Update course every',
+  'HOUR'=>'h',
+  'T_TIP_AUTO_UPDATE_TIME'=>'Update time currency exchange rates , in hours',
+  'LAST_UPDATE_DATETIME'=>'the subsequent update',
+  'UPDATE_CURS'=>'Update exchange rates',
+  'SAVE_BASE'=>'Basic settings saved',
+  'NOT_SAVE_BASE'=>'Failed to save the basic settings',
+  'SAVE_MODAL'=>'Save and update',
+  'CURRENCY_UPDATED'=>'Exchange rates are updated',
+  'CURRENCY_NOT_UPDATED'=>'Failed to update exchange rates',
+  'NOT_UPDATE' => 'synchronization is not performed',
+  'AUTO_UPDATE_PRICES' => 'Recalculate prices in updating course',
+  'UPDATE_PRICES_PROCESS' => 'Running upgrade price',
+  'UPDATE_PRICES_SUCCESS' => 'Convert prices finished',
+  'UPDATE_PRICES' => 'Recalculate prices with a new course',
+);

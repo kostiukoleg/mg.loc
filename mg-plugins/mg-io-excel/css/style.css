@@ -1,0 +1,44 @@
+.base-settings .list-option li{padding: 5px 0;}
+.base-settings .list-option li span{width: 280px;vertical-align: top;}
+.base-settings .list-option li input[type="text"]{margin: 0;width: 270px;}
+.base-settings .list-option li select{margin: 0;width: 293px;}
+.base-settings .list-option li.section{font-weight: bold; fon-size: 14px; margin: 5px 0;}
+.admin-wrapper .my-view-action{
+  background: url("/mg-admin/design/images/loader.gif") no-repeat scroll 10px center #f8b706;
+  border: 1px solid #e49023;
+  border-radius: 3px;
+  bottom: 0;
+  color: #fff;
+  display: inline-block;
+  left: 0;
+  padding: 30px 30px 30px 50px;
+  position: fixed;
+  text-shadow: 1px 1px 1px #444;
+  z-index: 100;
+}
+
+.section-mg-io-excel .tabs-list li a{
+    border-radius: 0;
+}
+
+.section-mg-io-excel .tabs-list li:first-child a{
+    border-radius: 5px 0 0 5px;
+}
+
+.section-mg-io-excel .tabs-list li:last-child a{
+    border-radius: 0 5px 5px 0;
+}
+
+.add-product-form-wrapper ul li{
+  margin-bottom: 10px;
+}
+
+.add-product-form-wrapper ul li span{
+  width: 200px;
+  display: inline-block;
+}
+
+.add-product-form-wrapper ul li select{
+  width: 300px;
+  //display: inline-block;
+}
